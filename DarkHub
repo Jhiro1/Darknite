@@ -1,0 +1,5 @@
+//DarkHub Script Idont Kwon if it work soo yea
+
+
+
+loadstring(game:HttpGet('https://solarishub.dev/script.lua',true))()
